@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" width="520" height="440">
+  <defs>
+    <radialGradient id="bg_garlic-bianca" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#242018"/>
+      <stop offset="100%" stop-color="#14110D"/>
+    </radialGradient>
+    <radialGradient id="crust_garlic-bianca" cx="45%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#E8A856"/>
+      <stop offset="78%" stop-color="#C87A2E"/>
+      <stop offset="94%" stop-color="#7D4114"/>
+      <stop offset="100%" stop-color="#4A2308"/>
+    </radialGradient>
+    <filter id="shadow_garlic-bianca" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="520" height="440" fill="url(#bg_garlic-bianca)"/>
+  <circle cx="260" cy="220" r="198" fill="#1A120E" stroke="#33241B" stroke-width="3"/>
+  <g filter="url(#shadow_garlic-bianca)">
+    <circle cx="260" cy="220" r="172" fill="url(#crust_garlic-bianca)"/>
+    <circle cx="145" cy="115" r="10" fill="#3B1D0A" opacity="0.65"/>
+    <circle cx="378" cy="128" r="13" fill="#3B1D0A" opacity="0.6"/>
+    <circle cx="395" cy="275" r="11" fill="#3B1D0A" opacity="0.7"/>
+    <circle cx="132" cy="295" r="12" fill="#3B1D0A" opacity="0.6"/>
+    <circle cx="255" cy="378" r="9" fill="#3B1D0A" opacity="0.65"/>
+    <circle cx="260" cy="220" r="144" fill="#E5D3B3"/>
+    <circle cx="260" cy="220" r="134" fill="#FFF9EB" opacity="0.94"/>
+    <path d="M260,48 L260,392 M88,220 L432,220 M138,98 L382,342 M382,98 L138,342" stroke="rgba(120,50,10,0.16)" stroke-width="2"/>
+    <g transform="translate(240,140) rotate(0)"><rect x="-14" y="-10" width="28" height="20" rx="6" fill="#F2D9A0" stroke="rgba(0,0,0,0.2)" stroke-width="1.5"/></g><g transform="translate(340,155)"><circle r="22" fill="#FFFFFF" opacity="0.95"/><circle r="18" fill="#FFFFFF" stroke="rgba(0,0,0,0.18)" stroke-width="2"/><circle cx="-5" cy="-5" r="2.5" fill="rgba(255,255,255,0.35)"/></g><g transform="translate(375,245) rotate(94)"><path d="M0,-18 C12,-14 14,8 0,18 C-14,8 -12,-14 0,-18 Z" fill="#33691E"/><path d="M0,-14 L0,14" stroke="rgba(255,255,255,0.28)" stroke-width="1.5"/></g><g transform="translate(315,325) rotate(141)"><rect x="-14" y="-10" width="28" height="20" rx="6" fill="#F2D9A0" stroke="rgba(0,0,0,0.2)" stroke-width="1.5"/></g><g transform="translate(210,330)"><circle r="22" fill="#FFFFFF" opacity="0.95"/><circle r="18" fill="#FFFFFF" stroke="rgba(0,0,0,0.18)" stroke-width="2"/><circle cx="-5" cy="-5" r="2.5" fill="rgba(255,255,255,0.35)"/></g><g transform="translate(150,250) rotate(235)"><path d="M0,-18 C12,-14 14,8 0,18 C-14,8 -12,-14 0,-18 Z" fill="#33691E"/><path d="M0,-14 L0,14" stroke="rgba(255,255,255,0.28)" stroke-width="1.5"/></g><g transform="translate(175,165) rotate(282)"><rect x="-14" y="-10" width="28" height="20" rx="6" fill="#F2D9A0" stroke="rgba(0,0,0,0.2)" stroke-width="1.5"/></g><g transform="translate(265,220)"><circle r="22" fill="#FFFFFF" opacity="0.95"/><circle r="18" fill="#FFFFFF" stroke="rgba(0,0,0,0.18)" stroke-width="2"/><circle cx="-5" cy="-5" r="2.5" fill="rgba(255,255,255,0.35)"/></g><g transform="translate(230,270) rotate(16)"><path d="M0,-18 C12,-14 14,8 0,18 C-14,8 -12,-14 0,-18 Z" fill="#33691E"/><path d="M0,-14 L0,14" stroke="rgba(255,255,255,0.28)" stroke-width="1.5"/></g><g transform="translate(310,205) rotate(63)"><rect x="-14" y="-10" width="28" height="20" rx="6" fill="#F2D9A0" stroke="rgba(0,0,0,0.2)" stroke-width="1.5"/></g><g transform="translate(280,285)"><circle r="22" fill="#FFFFFF" opacity="0.95"/><circle r="18" fill="#FFFFFF" stroke="rgba(0,0,0,0.18)" stroke-width="2"/><circle cx="-5" cy="-5" r="2.5" fill="rgba(255,255,255,0.35)"/></g><g transform="translate(195,215) rotate(157)"><path d="M0,-18 C12,-14 14,8 0,18 C-14,8 -12,-14 0,-18 Z" fill="#33691E"/><path d="M0,-14 L0,14" stroke="rgba(255,255,255,0.28)" stroke-width="1.5"/></g>
+  </g>
+</svg>

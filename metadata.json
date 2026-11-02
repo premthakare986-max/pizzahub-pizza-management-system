@@ -1,0 +1,6 @@
+{
+  "name": "PizzaHub – Pizza Management System",
+  "description": "Full-stack relational DBMS Pizza Management System with customer ordering storefront, admin analytics dashboard, inventory tracking, stored procedures, triggers, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
